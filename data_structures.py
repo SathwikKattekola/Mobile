@@ -39,3 +39,4 @@ print(s1.symmetric_difference(s2))
 arr=([1,2,3],[4,5,6])
 del arr[0][1]
 print(arr)
+//commiting changes
