@@ -108,3 +108,12 @@ print(b)
 o=b"hi"
 print(o)
 print((o+b"!"))
+class woman:
+    def __init__(self,height):
+        self.height=height
+class wife(woman):
+    def marriage_year(self,m):
+        self.m_year=m
+    def m_year(self.m_year):
+        print(self.m_year)
+w1= wife()
